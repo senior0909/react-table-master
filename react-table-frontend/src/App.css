@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.LogoNavSlogan{
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+.flex-item-nav {
+  padding: 5px;
+  align-self: center;
+}
+
+.info_table{
+  padding-left: 50px;
+
+}
+
+.padding-left_button {
+  padding-left: 50px;
+}
+
